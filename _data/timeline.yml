@@ -1,0 +1,37 @@
+- title: LLC NCS
+  title-url: https://www.ncs.lv/
+  date: 2022 - 2023
+  subtitle: CAD Engineer
+  tags:
+    - tag: AutoLISP
+    - tag: Java
+    - tag: C++
+  timeline-side: right 
+
+- title: LLC RGS
+  title-url: https://www.rgs.lv/
+  date: 2017 - 2023
+  subtitle: Developer
+  tags:
+    - tag: Bash 
+    - tag: HTML
+    - tag: CSS
+    - tag: Javascript
+    - tag: VBA
+  timeline-side: left
+
+- title: LLC Farads
+  title-url: https://farads.lv/
+  date: 2015 - 2016
+  subtitle: Assambler
+  tags:
+    - tag: Matlab
+    - tag: Python
+    - tag: VBA
+  timeline-side: right
+
+- title: Riga Technical university
+  title-url: https://www.rtu.lv/en
+  date: 2013 - 2016
+  subtitle: Faculty of Computer Science, Information Technology and Energy
+  timeline-side: left

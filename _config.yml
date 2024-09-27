@@ -1,0 +1,50 @@
+title: Developer
+description: Developer's Personal Website
+baseurl: ""
+username: Software Developer
+typing_text: Thank you very much for reaching out!
+email: devxpno@proton.me
+# telegram_username:
+# linkedin_username:
+github_username: 99de
+# facebook_username:
+# instagram_username:
+# whatsapp_number:
+# personal_store:
+show_aboutme_card: true
+about_me_title: About Me
+about_me_description: <empty>
+show_skills_card: true
+skills_title: Skills
+show_timeline_card: true
+timeline_title: Education & Experience
+cv_download_link: https://linkedin.com/
+show_projects_card: true
+show_projects: true
+projects_title:
+show_os_projects: true
+os_projects_title: Portfolio Projects
+show_contact_card: true
+contact_title: Contacts
+contact_description: Feel free to contact me wherever is comfortable for you
+repository: 99de/99de.github.io
+github_pages:
+  - 99de.github.io
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - 99de
+plugins:
+  - "jekyll-github-metadata"
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]

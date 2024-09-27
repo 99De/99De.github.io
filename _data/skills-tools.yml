@@ -1,0 +1,50 @@
+- name: CMake
+  weight: 5
+
+- name: Make
+  weight: 5
+
+- name: Visual Studio
+  weight: 5
+
+- name: GCC
+  weight: 5
+
+- name: Clang
+  weight: 4
+
+- name: Valgrind
+  weight: 4
+
+- name: Maven
+  weight: 4
+
+- name: Gradle
+  weight: 4
+
+- name: JUnit
+  weight: 3
+
+- name: IntelliJ IDEA
+  weight: 3
+
+- name: Eclipse
+  weight: 3
+
+- name: Ktor
+  weight: 3
+
+- name: Koin 
+  weight: 2  
+
+- name: Dart SDK
+  weight: 2
+
+- name: Flutter SDK
+  weight: 2
+
+- name: Dart DevTools
+  weight: 2
+
+- name: Mason
+  weight: 2

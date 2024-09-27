@@ -1,0 +1,78 @@
+- name: Qt
+  weight: 5
+
+  
+- name: Boost
+  weight: 5
+
+  
+- name: Cinder
+  weight: 5
+
+  
+- name: Poco
+  weight: 5
+
+  
+- name: GTK
+  weight: 4  
+
+  
+- name: OpenCV
+  weight: 4
+
+  
+- name: Spring
+  weight: 4
+
+  
+- name: Hibernate
+  weight: 4
+
+  
+- name: JavaFx
+  weight: 3
+
+  
+- name: Apache Struts
+  weight: 3
+
+  
+- name: Play
+  weight: 3
+
+  
+- name: Ktor
+  weight: 3
+
+  
+- name: Spring
+  weight: 4
+
+  
+- name: Anko
+  weight: 4
+
+  
+- name: Exposed
+  weight: 4 
+
+  
+- name: TornadoFX
+  weight: 4
+
+  
+- name: Flutter
+  weight: 5
+
+  
+- name: AngularDart
+  weight: 5
+
+  
+- name: Aqueduct
+  weight: 5
+
+  
+- name: Dart Web
+  weight: 5
