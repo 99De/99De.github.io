@@ -1,5 +1,5 @@
 - title: LLC NCS
-  title-url: https://www.ncs.lv/
+  title-url:
   date: 2022 - 2023
   subtitle: CAD Engineer
   tags:
@@ -9,7 +9,7 @@
   timeline-side: right 
 
 - title: LLC RGS
-  title-url: https://www.rgs.lv/
+  title-url:
   date: 2017 - 2023
   subtitle: Developer
   tags:
@@ -21,7 +21,7 @@
   timeline-side: left
 
 - title: LLC Farads
-  title-url: https://farads.lv/
+  title-url:
   date: 2015 - 2016
   subtitle: Assambler
   tags:
