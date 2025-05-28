@@ -3,21 +3,15 @@
   date: 2022 - 2023
   subtitle: CAD Engineer
   tags:
-    - tag: AutoLISP
-    - tag: Java
-    - tag: C++
+    - tag: ObjectARX
   timeline-side: right 
 
 - title: LLC RGS
   title-url:
-  date: 2017 - 2023
+  date: 2017 - 2021
   subtitle: Developer
   tags:
-    - tag: Bash 
-    - tag: HTML
-    - tag: CSS
-    - tag: Javascript
-    - tag: VBA
+    - tag: C++ 
   timeline-side: left
 
 - title: LLC Farads
@@ -25,9 +19,7 @@
   date: 2015 - 2016
   subtitle: Assambler
   tags:
-    - tag: Matlab
-    - tag: Python
-    - tag: VBA
+    - tag: PLC
   timeline-side: right
 
 - title: Riga Technical university
